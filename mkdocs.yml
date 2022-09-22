@@ -1,1 +1,16 @@
 site_name: CloudflarePages-MkDocs
+
+plugins:
+    - search
+    - with-pdf
+theme:
+  name: material
+  features: 
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+
+nav:
+    - Home: index.md
+
