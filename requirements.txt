@@ -3,4 +3,4 @@ mkdocs
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
 mkdocs-material
-mkdocs-with-pdf==0.2.3
+#mkdocs-with-pdf==0.2.3

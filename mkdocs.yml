@@ -2,7 +2,7 @@ site_name: CloudflarePages-MkDocs
 
 plugins:
     - search
-    - with-pdf
+    #- with-pdf
 theme:
   name: material
   features: 
