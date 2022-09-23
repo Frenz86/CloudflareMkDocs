@@ -13,4 +13,5 @@ theme:
 
 nav:
     - Home: index.md
+    - Fastapi: fastapi.md
 

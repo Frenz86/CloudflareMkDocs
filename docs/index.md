@@ -1,7 +1,5 @@
 # CloudflarePages-MkDocs
 
-<https://github.com/fu-sen/CloudflarePages-MkDocs>
-
 **MkDocs with Cloudflare Pages (minimal configuration)**
 
 - [Cloudflare Pages](https://pages.cloudflare.com/)
